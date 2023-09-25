@@ -10,4 +10,4 @@ const root = ReactDOM.createRoot(noDOM);
 root.render(
 <React.StrictMode>
 <App />
-  </React.StrictMode>);
+</React.StrictMode>);
